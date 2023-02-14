@@ -1,13 +1,14 @@
-# Инструкция по работе с GIT
+# **Инструкция по работе с GIT** 
+---
 
 LICENSE: [MIT](/license.md)
 
-![](Git-logo.svg.png)
+![](/Git-Logo-1788C.png)
 
 
-GIT logo by Jason Long. http://git-scm.com/downloads/logos license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+##### Логотип Git от Jason Long. [(**Сайт**)](http://git-scm.com/downloads/logos) Распространяется по лицензии: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-
++ 1.[*Что такое **GIT***](/WhotIsGit.md)
 
 
 
