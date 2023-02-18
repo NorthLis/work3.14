@@ -8,7 +8,8 @@ LICENSE: [MIT](/license.md)
 
 ##### Логотип Git от Jason Long. [(**Сайт**)](http://git-scm.com/downloads/logos) Распространяется по лицензии: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-+ 1.[*Что такое **GIT***](/WhotIsGit.md)
-
++ 1 [*Что такое **GIT***](/WhotIsGit.md) 
++ 2 [*Установка ***GIT****](install.md)
++ 3 
 
 
