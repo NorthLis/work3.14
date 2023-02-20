@@ -1,4 +1,4 @@
-[<назад](readme.md)
+[<вернуться](readme.md)
 # Настройка Git
 
 
@@ -20,3 +20,5 @@ git config --list --show-origin
 
     git config --global user.name "Name"
     git config --global user.email @mail
+
+[<назад](/installGit.md) [вперед>](commandGit.md)

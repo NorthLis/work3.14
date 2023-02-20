@@ -12,7 +12,7 @@ LICENSE: [MIT](/license.md)
 
 - 1.[*Что такое **GIT***](/WhotIsGit.md) 
 
-- 2.[*Установка ***GIT****](install.md)
+- 2.[*Установка ***GIT****](installGit.md)
 
 - 3.[*Настройка **GIT***](settingUpGit.md)
 
